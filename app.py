@@ -1,3 +1,7 @@
+pip install flask requests
+
+python app.py
+
 from flask import Flask, render_template, jsonify, request
 import requests
 
